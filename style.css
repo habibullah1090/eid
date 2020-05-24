@@ -31,6 +31,10 @@ body{
 #mubarak{
 	margin-top: -20px;
 }
+h4{
+	color:#000;
+	display: block;
+}
 .footer{
 	width: 100%;
 	height: 700px;
